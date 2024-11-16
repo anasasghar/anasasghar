@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anasasghar
-- 👀 I’m interested in Python, JS, CSS, HTML, APIs, NodeRed, Raspberry Pi, Python, NodeJS
+- 👀 I’m interested in Python, JS, CSS, HTML, APIs, NodeRed, Raspberry Pi, NodeJS
 - API integration expert, Automation expert
 - 📫 How to reach me email me at alphageeksh@gmail.com
 
